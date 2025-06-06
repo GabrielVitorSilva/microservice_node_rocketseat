@@ -19,6 +19,8 @@ O projeto é composto pelos seguintes serviços:
 ## 🛠️ Tecnologias Utilizadas
 
 - Node.js
+- Drizzle ORM
+- Fastify
 - TypeScript
 - Docker
 - Docker Compose
