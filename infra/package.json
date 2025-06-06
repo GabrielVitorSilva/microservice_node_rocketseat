@@ -10,6 +10,7 @@
         "@pulumi/awsx": "^2.0.2",
         "@pulumi/docker-build": "0.0.12",
         "@pulumi/pulumi": "^3.113.0",
+        "minipass-pipeline": "^1.2.4",
         "p-map": "^7.0.3"
     }
 }
